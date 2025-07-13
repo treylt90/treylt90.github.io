@@ -3,9 +3,13 @@ description: Radar, RF, and signal processing projects
 theme: minima
 markdown: kramdown
 
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name/
+# Optional: Show GitHub link in footer
+github_username: treylt90
 
-[🔬 View My Projects →](/projects/)
+# Base URL (used if your repo isn't yourusername.github.io)
+# Leave blank for personal site
+baseurl: ""  # important to leave empty for personal GitHub Pages site
+
+# If you want posts (optional)
+# future: true
+
