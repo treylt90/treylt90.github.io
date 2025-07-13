@@ -14,7 +14,7 @@ Welcome! I'm Trey, an RF and radar systems engineer with a passion for hands-on 
 
 ## 🔬 Featured Projects
 
-### [FMCW Radar with MATLAB and PlutoSDR](/projects/fmcw-radar/)
+### [FMCW Radar with MATLAB and PlutoSDR](/_projects/fmcw-radar/)
 Simulated and tested an FMCW radar system using MATLAB and ADALM-PlutoSDR. Performed beat frequency extraction and range-Doppler analysis with live signal visualization.
 
 ---
