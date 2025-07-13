@@ -3,3 +3,6 @@
 This site features projects in radar, RF design, signal processing, and embedded systems.
 
 More coming soon!
+
+Check out my first project:  
+[📡 FMCW Radar →](/fmcw-radar/)
