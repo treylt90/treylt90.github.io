@@ -1,13 +1,4 @@
 title: Trey's Engineering Portfolio
 description: Radar, RF, and signal processing projects
-theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # or "dark", "air", "neon", etc.
-
-plugins:
-  - jekyll-include-cache
-
-# Optional: social media, Google Analytics, etc.
-
-# Build settings
+theme: minima
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
