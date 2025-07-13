@@ -1,16 +1,7 @@
 ---
-title: "FMCW Radar with MATLAB and PlutoSDR"
-permalink: /projects/fmcw-radar/
-excerpt: "Range-Doppler radar simulation and real-world testing using MATLAB and PlutoSDR."
 layout: page
-author_profile: false
-read_time: true
-classes: wide
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  image: /assets/images/fmcw-banner.png
-  caption: "Range-Doppler heatmap from MATLAB simulation"
+title: FMCW Radar with MATLAB
+permalink: /projects/fmcw-radar/
 ---
 
 ## Overview
