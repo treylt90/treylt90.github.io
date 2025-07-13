@@ -7,3 +7,5 @@ collections:
   projects:
     output: true
     permalink: /projects/:name/
+
+[🔬 View My Projects →](/projects/)
