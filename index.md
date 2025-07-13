@@ -26,5 +26,5 @@ Simulated and tested an FMCW radar system using MATLAB and ADALM-PlutoSDR. Perfo
 ## 📫 Contact
 
 Want to connect?  
-Feel free to reach out on [GitHub](https://github.com/treylt90) or [LinkedIn](https://www.linkedin.com/in/your-link-here).
+Feel free to reach out on [GitHub](https://github.com/treylt90) or [LinkedIn](www.linkedin.com/in/michael-trey-thompson).
 
